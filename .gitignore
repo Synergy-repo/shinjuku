@@ -1,0 +1,13 @@
+*~
+*.a
+*.d
+*.o
+*.swp
+.depend
+
+/deps/dpdk
+/deps/dune
+/deps/pcidma
+/shinjuku.conf
+/dp/shinjuku
+/client/latency_client
